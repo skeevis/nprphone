@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather method="POST" numDigits="5" action="{{ postprefix }}station">
+        <Say>Please enter your 5 digit zipcode to find the nearest radio station.</Say>
+    </Gather>
+</Response>
